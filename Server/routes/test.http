@@ -1,0 +1,10 @@
+POST http://localhost:6000/app/register
+Content-Type: application/json
+
+{
+    "username" : "hlalele",
+     "phonenumber": 5621440,
+     "email": "hlal45.gmail.com",
+      "password": "123456",
+      "confirm" : "123456"
+}
